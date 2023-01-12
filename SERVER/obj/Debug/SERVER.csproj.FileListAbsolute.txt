@@ -1,0 +1,8 @@
+D:\Универ\СЕМЕСТР 4\КУРСОВАЯ РАБОТА\SERVER\bin\Debug\SERVER.exe.config
+D:\Универ\СЕМЕСТР 4\КУРСОВАЯ РАБОТА\SERVER\bin\Debug\SERVER.exe
+D:\Универ\СЕМЕСТР 4\КУРСОВАЯ РАБОТА\SERVER\bin\Debug\SERVER.pdb
+D:\Универ\СЕМЕСТР 4\КУРСОВАЯ РАБОТА\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+D:\Универ\СЕМЕСТР 4\КУРСОВАЯ РАБОТА\SERVER\obj\Debug\SERVER.csproj.SuggestedBindingRedirects.cache
+D:\Универ\СЕМЕСТР 4\КУРСОВАЯ РАБОТА\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+D:\Универ\СЕМЕСТР 4\КУРСОВАЯ РАБОТА\SERVER\obj\Debug\SERVER.exe
+D:\Универ\СЕМЕСТР 4\КУРСОВАЯ РАБОТА\SERVER\obj\Debug\SERVER.pdb
